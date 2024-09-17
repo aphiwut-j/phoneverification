@@ -23,6 +23,7 @@ def generate_otp():
 def send_sms(recipient_number, otp):
     """Send OTP via ClickSend API."""
     message = clicksend_client.SmsMessage(
+        source="OTP Testing", # Not seen recipient
         to=recipient_number,
         body=f'Your OTP code is {otp}.'
     )
