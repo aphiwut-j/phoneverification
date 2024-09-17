@@ -1,2 +1,2 @@
 # phoneverification
-Try to implement phone verification using OTP
+Try to implement phone verification technique using OTP
