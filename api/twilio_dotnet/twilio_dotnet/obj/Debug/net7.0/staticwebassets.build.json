@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "33WlKTvw/eGD8r9ICWTp/mrjQPYAT2nu1dihLqFlQTI=",
+  "Source": "twilio_dotnet",
+  "BasePath": "_content/twilio_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
