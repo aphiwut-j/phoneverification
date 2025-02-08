@@ -27,3 +27,18 @@ This project implements a phone verification system using One-Time Passwords (OT
 ```bash
 git clone https://github.com/aphiwut-j/phoneverification.git
 cd phoneverification
+```
+
+### 2. Create a Virtual Environment (Recommended)
+
+```
+python -m venv venv
+source venv/bin/activate  # For macOS/Linux
+venv\Scripts\activate     # For Windows
+```
+
+### 3. Install Required Packages
+```
+pip install -r requirements.txt
+```
+
